@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "rb",
+			"path": "."
+		},
+		{
+			"name": "config",
+			"path": "../rbf/config"
+		}
+	],
+	"settings": {}
+}
